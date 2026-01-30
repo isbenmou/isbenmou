@@ -33,7 +33,7 @@
 
 ### 📬 Connect with me
 <p align="left">
-  <a href="mailto:isbenmou@student.1337.ma">
+  <a href="mailto:ismailbenmoussa203@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ismail-benmoussa-795874383">
