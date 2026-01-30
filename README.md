@@ -1,44 +1,46 @@
-<h2 align="center"> Hi there 👋 I'm ABDELLAH EL BEKKALI a student at
- 
- <a href="https://1337.ma/" target="_blank" rel="noopener noreferrer">1337 Coding School</a></h2>
-<h3 align="center">I love learning new things!🎓</h3>
+<h2 align="center"> Hi there 👋 I'm ISMAIL BENMOUSSA </h2>
+<p align="center">
+  <b>Student at <a href="https://1337.ma/" target="_blank">1337 Coding School (42 Network)</a></b><br>
+  Focused on Low-Level Programming and Unix-based Systems.
+</p>
 
-# 🏫 1337 Coding School
 <div align="center">
-  <a href = "https://profile.intra.42.fr/users/ael-bekk" ><img src="https://badge.mediaplus.ma/darkgray/ael-bekk"><a>
+  <img src="https://badge.mediaplus.ma/darkgray/isbenmou">
 </div>
 
- # 📊 GitHub Stats :
+---
 
- <br>
- <div align="center">
-   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ael-bekk&langs_count=3&layout=compact&show_icons=true&theme=monokai&count_private=true&include_all_commits=true&bg_color=,303030,080808" > 
-   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ael-bekk&theme=monokai&bg_color=,080808,303030&langs_count=3" >
- </div>
- <br>
-
- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ael-bekk&langs_count=3&layout=compact&show_icons=true&theme=dark"><br/>
- </div>
-
-<p align='center'>
- <a href = "https://github.com/ael-bekk?tab=followers" ><img src="https://img.shields.io/github/followers/ael-bekk?style=social"></a>
-<img src="https://komarev.com/ghpvc/?username=ael-bekk&label=Visitors+Count&color=brightgreen">
+### 🛠 Skills & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-FFD11A?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-116E51?style=flat-square&logo=vim&logoColor=white" />
 </p>
 
-# 👤 Profile :
- 
-<p align='center'>
-<a href = "https://leetcode.com/AlgoAce/"><img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download2.png' height='70'></a>
-<a href = "https://codeforces.com/profile/ael-bekk00"><img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download3.png' alt='codeforces' height='70'></a>
- <a href = "https://www.codingame.com/profile/eb5df72bb9beb07d17dd195d9c121c207572164"><img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download4.png' alt='codingame' height='70'></a>
+### 📊 42 & GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isbenmou&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isbenmou&layout=compact&theme=tokyonight&langs_count=5" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isbenmou&theme=tokyonight" />
+</p>
 
-## ✉ Contact With Me :
+---
 
-<p align='center'>
- <a href = "mailto:abekkali451@gmail.com" > <img src="https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social" > </a> 
- <a href = "https://twitter.com/Aelbekk" > <img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" > </a> 
- <a href = "https://www.linkedin.com/in/el-bekkali-abdellah-a812aa241/" > <img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" > </a> 
- <a href = "https://www.youtube.com/channel/UCZNBu4ZQ0rOPXQ1p8-pOt2A" > <img src="https://img.shields.io/youtube/channel/views/UCZNBu4ZQ0rOPXQ1p8-pOt2A?style=social" >  </a>
+### 📬 Connect with me
+<p align="left">
+  <a href="mailto:isbenmou@student.1337.ma">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ismail-benmoussa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=isbenmou&label=Profile+Views&color=00599C&style=flat-square" />
+</p>
